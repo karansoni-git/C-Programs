@@ -1,2 +1,2 @@
 # C-Programs
-all C language program from basic to advance
+C language program from basic to advance for beginners
